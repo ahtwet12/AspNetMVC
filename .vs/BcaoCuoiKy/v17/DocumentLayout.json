@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\BcaoCuoiKy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 38,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T07:51:23.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Models\\AccountViewModels.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:46:57.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Models\\IdentityModels.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:46:52.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T16:02:06.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

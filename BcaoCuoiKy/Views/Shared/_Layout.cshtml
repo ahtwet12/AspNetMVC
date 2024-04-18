@@ -22,9 +22,11 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Loại sản phẩm
+                            
                         </a>
                         @{ Html.RenderAction("Index", "Menu");}
                     </li>
+
                     <li>@Html.ActionLink("Khách hàng", "Index", "Khachhangs", new { area = "" }, new { @class = "nav-link" })</li>
                     <li>@Html.ActionLink("Hóa đơn", "Index", "HoaDons", new { area = "" }, new { @class = "nav-link" })</li>
                 </ul>

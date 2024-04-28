@@ -5,57 +5,36 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+
 <h2>Chi tiết sản phẩm</h2>
 
 <div>
-    <h4>SanPham</h4>
     <hr />
+    <table border="0" color="white" width="500px" align="center">
+
+        <tr>
+            <td rowspan="4">@Html.Images("../../" + @Model.HinhSP, @Model.HinhSP, "200")</td>
+            <th style="margin: 0 20px;">Tên sản phẩm</th>
+            <td>@Html.DisplayFor(model => model.TenSP)</td>
+        </tr>
+        <tr>
+            <th>Đơn vị tính</th>
+            <td>@Html.DisplayFor(model => model.Donvitinh)</td>
+        </tr>
+        <tr>
+            <th>Đơn giá</th>
+            <td>@Html.DisplayFor(model => model.Dongia)</td>
+        </tr>
+        <tr>
+            <th>Loại sản phẩm</th>
+            <td>@Html.DisplayFor(model => model.LoaiSP.TenLoaiSP)</td>
+        </tr>
+        
+    </table>
     <dl class="dl-horizontal">
-        <dt>
-            Tên sản phẩm
-        </dt>
+        <dt></dt>
 
-        <dd>
-            @Html.DisplayFor(model => model.TenSP)
-        </dd>
-
-        <dt>
-            Đơn vị tính
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Donvitinh)
-        </dd>
-
-        <dt>
-            Đơn giá
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Dongia)
-        </dd>
-
-        <dt>
-            Loại sản phẩm
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.LoaiSP.TenLoaiSP)
-        </dd>
-
-        <dt>
-            Hình ảnh
-        </dt>
-
-        <dd>
-            @* @Html.DisplayFor(model => model.HinhSP)*@
-            @Html.Images("../../" + @Model.HinhSP, @Model.HinhSP, "100")
-        </dd>
-        <dt>
-
-        </dt>
-
-        <dd>
+        <dd align="center">
             <br />
             <a class="btn btn-success btn-sm" href="@Url.Action("AddToCart","GioHang", new {MaSP = Model.MaSP})">
                 <span class="glyphicon glyphicon-shopping-cart"></span>Thêm vào giỏ

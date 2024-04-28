@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\NET\\BcaoCuoiKy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\areas\\admin\\views\\cthds\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\areas\\admin\\views\\cthds\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 38,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,76 +34,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BcaoCuoiKy\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BcaoCuoiKy\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:39:13.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountViewModels.cs",
-              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\AccountViewModels.cs",
-              "RelativeDocumentMoniker": "BcaoCuoiKy\\Models\\AccountViewModels.cs",
-              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\AccountViewModels.cs",
-              "RelativeToolTip": "BcaoCuoiKy\\Models\\AccountViewModels.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAewD4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:36:04.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Account\\Register.cshtml",
-              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "BcaoCuoiKy\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T15:32:05.45Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "BcaoCuoiKy\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T15:31:21.096Z",
+              "WhenOpened": "2024-04-28T17:26:08.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "BcaoCuoiKy\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "BcaoCuoiKy\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAkwDkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T15:20:31.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAA/AAAA",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Views\\CTHDs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Areas\\Admin\\Views\\CTHDs\\Delete.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Views\\CTHDs\\Delete.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Areas\\Admin\\Views\\CTHDs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T09:27:09.354Z"
+              "WhenOpened": "2024-04-28T17:25:54.949Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -4,13 +4,14 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="f398095d11974fcebb5ffcfa2ceaf8c3" Name="Diagram1">
+      <Diagram DiagramId="3760216533534ceabec61cc0b2e7443b" Name="Diagram1" ZoomLevel="82">
         <EntityTypeShape EntityType="cuoikydbModel.CTHD" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="cuoikydbModel.HoaDon" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="cuoikydbModel.KhachHang" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="cuoikydbModel.LoaiSP" Width="1.5" PointX="0.75" PointY="9.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="cuoikydbModel.Nhanvien" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="cuoikydbModel.SanPham" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="cuoikydbModel.LoaiSP" Width="1.5" PointX="3.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="cuoikydbModel.Nhanvien" Width="1.5" PointX="0.5" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="cuoikydbModel.SanPham" Width="1.5" PointX="5.375" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="cuoikydbModel.User" Width="1.5" PointX="7.5" PointY="1.125" IsExpanded="true" />
         <AssociationConnector Association="cuoikydbModel.FK_CTHD_HoaDon" ManuallyRouted="false" />
         <AssociationConnector Association="cuoikydbModel.FK_CTHD_SanPham" ManuallyRouted="false" />
         <AssociationConnector Association="cuoikydbModel.FK_HoaDon_KhachHang" ManuallyRouted="false" />

@@ -1,0 +1,2 @@
+D:\NET\BcaoCuoiKy\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\NET\BcaoCuoiKy\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache

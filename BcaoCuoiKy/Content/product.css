@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+	color: #565765;
+}
+ul, li{ list-style: none; padding: 0; margin: 0; }
+a{ text-decoration: none; }
+
+#product-list{
+	background-color: #f5f6f7;
+}
+
+.product, .product *{
+	transition: all .5s;
+}
+
+.block .title{
+	padding: 20px 0;
+}
+
+.product{
+	background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid;
+    border-color: transparent;
+    margin-bottom: 20px
+}
+
+.product:hover {
+	border-color: #078542;
+}
+
+.product:hover .add-to-cart, .product:hover .add-to-cart i{
+	color: #fff;
+}
+
+.product img{
+	width: 100%;
+}
+
+.product .star{
+	margin-bottom: 5px;
+}
+
+.product .star li{
+	display: inline-block;
+}
+
+.product .star li .fa-star{
+	color: #ffab0f;
+	font-size: 11px;
+}
+.product .star li .fa-star.no-active{
+	color: #777777;
+}
+
+.product .name{
+	color: #565765;
+	font-size: 1rem;
+}
+.product .price li{ display: inline-block;  }
+.product .price li.price-1{
+	color: #f00;
+	font-weight: 500;
+	text-decoration: line-through;
+}
+.product .price li.price-2{
+	color: #469e5c;
+}
+.product .price li.price-2 .p{
+	font-weight: 500;
+}
+.product .add-to-cart{
+	color: #565765;
+	background-color: #e8e8e8;
+	border-radius: 3px;
+	display: block;
+	margin-top: 10px;
+}
+.product .top li{ display: inline-block;  }
+.product .top .sale{
+	background-color: #e86121;
+    color: #fff;
+    font-size: 12px;
+    padding: 2px 10px;
+    border-radius: 3px;
+}
+.product .top .icon{
+	float: right;
+}
+.product .top .icon .fas{
+	color: #cccccc;
+}
+.product .bottom{
+	border-top: 1px solid;
+    border-color: #e8e8e8;
+    padding-top: 10px;
+}
+
+.product .product-img { 
+	position: relative; 
+	display: flex;
+    justify-content: center;
+}
+
+.product .product-img ul{
+	visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    bottom: -20px;
+}
+
+.product:hover .product-img ul{
+	visibility: visible;
+    opacity: 1;
+    bottom: 10px;
+}
+
+.product .product-img li{ display: inline-block; }
+.product:hover .add-to-cart, .product .product-img li a{
+	background-color: #078542;
+}
+.product .product-img li a i{ color: #fff;  }
+.product .product-img li a{ 
+	display: block; width: 30px; height: 30px; line-height: 30px; border-radius: 3px; 
+	margin-right: 2px;
+    margin-left: 2px;
+}

@@ -10,7 +10,7 @@ using BcaoCuoiKy.Models;
 
 namespace BcaoCuoiKy.Controllers
 {
-    public class LoaiSPsController : Controller
+    public class LoaiSPController : Controller
     {
         private cuoikydbEntities db = new cuoikydbEntities();
 

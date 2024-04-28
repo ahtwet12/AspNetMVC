@@ -10,7 +10,7 @@ using BcaoCuoiKy.Models;
 
 namespace BcaoCuoiKy.Controllers
 {
-    public class KhachHangsController : Controller
+    public class KhachHangController : Controller
     {
         private cuoikydbEntities db = new cuoikydbEntities();
 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\NET\\BcaoCuoiKy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\areas\\admin\\views\\cthds\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\areas\\admin\\views\\cthds\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 38,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "BcaoCuoiKy\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "BcaoCuoiKy\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T17:26:08.826Z",
+              "WhenOpened": "2024-04-29T07:21:46.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Views\\CTHDs\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BcaoCuoiKy\\Areas\\Admin\\Views\\CTHDs\\Delete.cshtml",
-              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Views\\CTHDs\\Delete.cshtml",
-              "RelativeToolTip": "BcaoCuoiKy\\Areas\\Admin\\Views\\CTHDs\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T17:25:54.949Z",
+              "WhenOpened": "2024-04-29T07:18:20.895Z",
               "EditorCaption": ""
             }
           ]

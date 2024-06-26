@@ -92,10 +92,10 @@ namespace BcaoCuoiKy.Controllers
 
             sMsg += "<tr> <th colspan = '5'> Tổng cộng:"
                 + String.Format("{0:#, ### vnđ}", tongtien) + "</th> </tr> </table>";
-            MailMessage mail = new MailMessage("diachimailnguoigui@gmail.com", Email, "Thông tin đơn hàng", sMsg);
+            MailMessage mail = new MailMessage("anhtuyetdu21@gmail.com", Email, "Thông tin đơn hàng", sMsg);
             SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
             client.EnableSsl = true;
-            client.Credentials = new NetworkCredential("diachinguoigui", "matkhau");
+            client.Credentials = new NetworkCredential("anhtuyetdu21", "uiqspjmgbqdvoxf");
             mail.IsBodyHtml = true;
             client.Send(mail);
             return RedirectToAction("Index", "Home");

@@ -3,12 +3,92 @@
   "WorkspaceRootPath": "D:\\NET\\BcaoCuoiKy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|d:\\net\\bcaocuoiky\\bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\account\\_externalloginslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\account\\_externalloginslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\models\\imageshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\models\\imageshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\loaisps\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\loaisps\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\loaisps\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\loaisps\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\views\\loaisps\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\views\\loaisps\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|D:\\NET\\BcaoCuoiKy\\bcaocuoiky\\controllers\\loaispscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0771A6-7329-4BA1-AC6D-D79189BA2D45}|BcaoCuoiKy\\BcaoCuoiKy.csproj|solutionrelative:bcaocuoiky\\controllers\\loaispscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 38,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,29 +114,268 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiohangController.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\GiohangController.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Controllers\\GiohangController.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\GiohangController.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Controllers\\GiohangController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:01:44.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T02:49:51.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:50:03.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BcaoCuoiKy\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T07:21:46.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T07:21:46.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswDsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:10:26.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwD4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:19:57.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:43:50.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Account\\Register.cshtml",
               "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "BcaoCuoiKy\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T07:18:20.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T07:18:20.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ExternalLoginsListPartial.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T02:24:39.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T02:24:37.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Models\\IdentityModels.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:46:48.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Models\\CartItem.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\CartItem.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:40:11.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Models\\ViewModel.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\ViewModel.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Models\\ViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:55:57.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageViewModels.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\ManageViewModels.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Models\\ManageViewModels.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\ManageViewModels.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Models\\ManageViewModels.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:47:05.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Models\\AccountViewModels.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAUwGwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:55:04.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:19:52.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImagesHelper.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\ImagesHelper.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Models\\ImagesHelper.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Models\\ImagesHelper.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Models\\ImagesHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:55:51.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\LoaiSPs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\LoaiSPs\\Edit.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\LoaiSPs\\Edit.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\LoaiSPs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T15:48:55.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Giohang\\Index.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\Giohang\\Index.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\Giohang\\Index.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\Giohang\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T15:01:15.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\LoaiSPs\\Details.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\LoaiSPs\\Details.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\LoaiSPs\\Details.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\LoaiSPs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T15:48:58.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoaiSPsController.cs",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\LoaiSPsController.cs",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Controllers\\LoaiSPsController.cs",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Controllers\\LoaiSPsController.cs",
+              "RelativeToolTip": "BcaoCuoiKy\\Controllers\\LoaiSPsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:19:14.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\LoaiSPs\\Create.cshtml",
+              "RelativeDocumentMoniker": "BcaoCuoiKy\\Views\\LoaiSPs\\Create.cshtml",
+              "ToolTip": "D:\\NET\\BcaoCuoiKy\\BcaoCuoiKy\\Views\\LoaiSPs\\Create.cshtml",
+              "RelativeToolTip": "BcaoCuoiKy\\Views\\LoaiSPs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T17:18:42.311Z"
             }
           ]
         }
